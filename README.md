@@ -5,3 +5,5 @@ birthday: 12 Jan
 Data Networking Lab, University of Aizu
 ### how to reach me
 Visit Lab or REMs clubhouse
+### my task
+please go to: https://github.com/aizu-wakamatsu/tasmana
