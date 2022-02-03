@@ -20,6 +20,7 @@ In University of Aizu, we have to get 128 credits(120 credits of lecture course 
 
 ### AFFILIATION
 Data Networking Lab, University of Aizu
+REMs (Robot team at UoA)
 
 ### RESEARCH TOPIC
 Practical gadget using Arduino
