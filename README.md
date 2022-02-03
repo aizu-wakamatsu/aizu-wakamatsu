@@ -19,8 +19,11 @@ My TOEIC score is 730 (Institutional Program, at 15 February 2020).
 In University of Aizu, we have to get 128 credits(120 credits of lecture course and 8 credits of graduation thesis). However, Most of the students have to get more extra credits because of another requirement. We have to get 10 credits of general education courses(sociology, physical activities...), 15 credits of English language courses and 95 credits of specialized courses(mathematics, programming...). Furthermore, each category is subdivided and many of them have the requirements of credits. We have to satisfy all of the requirements. For these, I have to get 138 credits total to graduate(extra 10 credits).
 
 ### AFFILIATION
-Data Networking Lab, University of Aizu
-REMs (Robot team at UoA)
+Data Networking Lab (November 2018-), Research student
+
+SCCP Manabino Arduino (April 2017-), Student (I am not student assistant)
+
+Robot team REMs (November 2017-), Treasurer(2021-) Leader(2019-2020) Deputy leader(2017-2018)
 
 ### RESEARCH TOPIC
 Practical gadget using Arduino
@@ -45,3 +48,26 @@ please visit: https://github.com/aizu-wakamatsu/tasmana
 You know that there are persons like who can make zero to one(create new things), one to ten(expand the business), etc......
 
 Then, I want the person who can make minus to zero(retrieve the honour). If you have the confidence to do that, please contact to me.
+
+### ICTG COURSE
+University of Aizu provides the opportunity for Japanese students to take lecture in English.
+
+You can receive completion certificate of ICTG course when you get 128 credits total of...
+- English language course. (英語科目。)
+- Strongly recommended course **for first-year student** or upper, both Japanese and English are accepted. (1年生以上が対象の基本推奨科目は、日本語クラスでもよい。2年生以上が対象のものは、英語でとる必要がある。)
+- Any course held in English **except courses not used for evaluation**. (自由単位を除いて、英語で開講されるすべての科目。)
+- Graduation thesis. (卒業論文。)
+
+If you are enroled in ICTG course from your upper-class, it will be difficult to achieve that because you already got these credits in Japanese class. You may fulfill the requirements of graduation before you achieve these.
+
+Don't worry, there are another merits to enrol in ICTG course.
+
+- Some courses are held in different quarter from Japanese class so you can make study plan flexibly. 
+
+- Some classes are held with small number of students so some of you feel more confortable than Japanese classes.
+
+- Each professor have different thinking about teaching method.
+
+You also can take Japanese class if you want. ICTG course doesn't prohibit you to take lectures in Japanese. Some course need special registration method. You can't register these course using course planning system(not displaying to that system). You have to go to SAD to register these course in course changing period. You also can change registration to English class from Japanese class. In this situation, you have priority to change registration because changing period for ICTG students is earlier than that of normal students. Please remember that it will not be regarded as ICTG credit if you take lecture in Japanese class for some reasons. Unfortunately, even if you take Japanese class due to over capacity of English class, it will not be regarded as ICTG credits.
+
+If you want to change your environment to take lecture, I recommend you to enrol in ICTG course. I don't guarantee the correctness of these information, please ask university staff for details.
