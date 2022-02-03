@@ -49,7 +49,7 @@ You know that there are persons like who can make zero to one(create new things)
 
 Then, I want the person who can make minus to zero(retrieve the honour). If you have the confidence to do that, please contact to me.
 
-### ICTG COURSE
+### ICTG COURSE (ADVERTISING)
 University of Aizu provides the opportunity for Japanese students to take lecture in English.
 
 You can receive completion certificate of ICTG course when you get 128 credits total of...
