@@ -2,28 +2,30 @@
 Good day! This is my profile.
 
 ### ME
-I am University of Aizu student for five years. I will experience my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university). I don't put my true name here because it is unattractive and it doesn't have any values, but you can find me on Facebook if you want to know that.
+I am University of Aizu student for five years. I will experience my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university). I don't put my true name here because it is unattractive and it doesn't have any values, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere.
 
 ### WHERE I LIVE
 Somewhere at Aizu-wakamatsu. You can see wonderful night view of downtown from the road near my house. There is also a hidden place to see fireworks festival.
 
 ### BIRTHDAY
-Same as [gpioblink](https://github.com/gpioblink)(We call him "Gib"). Hey you, celebrating his birthday, don't forget that that day is also my birthday! (It doesn't mean "Buy me some gifts", just keep me in mind.) ...Hmm, only Gib gets people's attention, it's unpleasant.
+Same as [gpioblink](https://github.com/gpioblink)(We call him "Gb"). Hey you, celebrating his birthday, don't forget that that day is also my birthday! (It doesn't mean "Buy me some gifts", just keep me in mind.) ...Hmm, only Gb gets people's attention, it's unpleasant.
 
 ### ACADEMIC RECORD
 
-I have 87 credits (GPA: 2.34) at the end of third quarter this academic year(April to March).
+I have almost 100 credits at the end of the autumn semester 2021 (October to March).
 
 My TOEIC score is 730 (Institutional Program, at 15 February 2020).
 
 In University of Aizu, we have to get 128 credits(120 credits of lecture course and 8 credits of graduation thesis). However, Most of the students have to get more extra credits because of another requirement. We have to get 10 credits of general education courses(sociology, physical activities...), 15 credits of English language courses and 95 credits of specialized courses(mathematics, programming...). Furthermore, each category is subdivided and many of them have the requirements of credits. We have to satisfy all of the requirements. For these, I have to get 138 credits total to graduate(extra 10 credits).
+
+I don't know this system of 26th student or lower. Recently many system has changed every year so please ask student affairs division.
 
 ### AFFILIATION
 Data Networking Lab (November 2018-), Research student
 
 SCCP Manabino Arduino (April 2017-), Student (I am not student assistant)
 
-Robot team REMs (November 2017-), Treasurer(2021-) Leader(2019-2020) Deputy leader(2017-2018)
+Robot club REMs (November 2017-), Accountant(2021-) Leader(2019-2020) Support leader(2017-2018)
 
 ### RESEARCH TOPIC
 Practical gadget using Arduino
@@ -71,3 +73,5 @@ Don't worry, there are another merits to enrol in ICTG course.
 You also can take Japanese class if you want. ICTG course doesn't prohibit you to take lectures in Japanese. Some course need special registration method. You can't register these course using course planning system(not displaying to that system). You have to go to SAD to register these course in course changing period. You also can change registration to English class from Japanese class. In this situation, you have priority to change registration because changing period for ICTG students is earlier than that of normal students. Please remember that it will not be regarded as ICTG credit if you take lecture in Japanese class for some reasons. Unfortunately, even if you take Japanese class due to over capacity of English class, it will not be regarded as ICTG credits.
 
 If you want to change your environment to take lecture, I recommend you to enrol in ICTG course. I don't guarantee the correctness of these information, please ask university staff for details.
+
+***DUE TO CORONAVIRUSD, IT IS DIFFICULT TO TAKE THE COURSE IN ICTG COURSE. CAPACITY OF LECTURE ROOM IS REDUCED AND THEY GIVE PRIORITY TO STUDENTS TAKING THEIR OWN CLASS, REGISTRATION WILL CHANGE TO JAPANESE CLASS OR CANCELLED!***
