@@ -2,14 +2,14 @@
 Good day! This is my profile.
 
 ### ME
-I am University of Aizu student for five years. I will experience my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university). I don't put my true name here because it is unattractive and it doesn't have any values, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere.
+I am University of Aizu student for more than five years. I enjoy the experience of my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here because it is unattractive and it doesn't have any values, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere.
 
 ### WHERE I LIVE
 Somewhere at Aizu-wakamatsu. You can see wonderful night view of downtown from the road near my house. There is also a hidden place to see fireworks festival.
-
+<!--
 ### BIRTHDAY
 Same as [gpioblink](https://github.com/gpioblink)(We call him "Gb"). Hey you, celebrating his birthday, don't forget that that day is also my birthday! (It doesn't mean "Buy me some gifts", just keep me in mind.) ...Hmm, only Gb gets people's attention, it's unpleasant.
-
+-->
 ### ACADEMIC RECORD
 <!--
 I have almost 100 credits at the end of the autumn semester 2021 (October to March).
@@ -17,39 +17,40 @@ I have almost 100 credits at the end of the autumn semester 2021 (October to Mar
 My TOEIC score is 730 (Institutional Program, at 15 February 2020).
 -->
 
-(updating in progress... until June ??th)
-
-In University of Aizu, we have to get 128 credits(120 credits of lecture course and 8 credits of graduation thesis). However, Most of the students have to get more extra credits because of another requirement. We have to get 10 credits of general education courses(sociology, physical activities...), 15 credits of English language courses and 95 credits of specialized courses(mathematics, programming...). Furthermore, each category is subdivided and many of them have the requirements of credits. We have to satisfy all of the requirements. For these, I have to get 138 credits total to graduate(extra 10 credits).
+In University of Aizu, we have to get 128 credits(120 credits of lecture course and 8 credits of graduation thesis). However, Most of the students have to get more extra credits because of another requirement. We have to get 10 credits of general education courses(sociology, physical activities...), 15 credits of English language courses and 95 credits of specialized courses(mathematics, programming...). Furthermore, each category is subdivided and many of them have the requirements of credits. We have to satisfy all of the requirements. For these, I have to get 142 credits total to graduate(extra 14 credits).
 
 I don't know this system of 26th student or lower. Recently many system has changed every year so please ask student affairs division.
 
 ### AFFILIATION
-Data Networking Lab (November 2018-), Research student
+Lab (April 2022-present, name changed due to the discontinuation of lab system, same Lab as DNL)
 
-SCCP Manabino Arduino (April 2017-), Student (I am not student assistant)
+Data Networking Lab (November 2018-March 2022), Research student
 
-Robot club REMs (November 2017-), Accountant(2021-) Leader(2019-2020) Support leader(2017-2018)
+SCCP Manabino Arduino (April 2017-present), Student (I am not the assistant)
+
+Robot team REMs (November 2017-), Accountant(AY2021-present) Leader(AY2019-AY2020) Support leader(AY2017-AY2018)
 
 ### RESEARCH TOPIC
 Practical gadget using Arduino
-
+<!--
 Main purpose of this research is to reduce the cost to buy useful device. Generally, useful device made by old technology is expensive. Then, we can replace them by the device using Arduino to reduce the cost. We know that the expensive device is suitable if we require higher precision, but when we use that in ordinary life, we don't need higher precision. we want to make the device with medium performance and lower cost.
+-->
+
+Engineers can use high-functional device like smartphones or smartwatches because they are familiar with new technology. I thought about for my mum or grandma, they are not familiar with that so it is diffifult to use high-functional device. I do something about hardware design for people not familiar with technology.
 
 ### HOW TO REACH ME
 Visit Lab (121-E, Ground floor of Research Quadrangles)
 
 Visit REMs workspace (K1, Second(3rd, in Japan) floor of Student Hall)
-
+<!--
 |🇬🇧|🇯🇵|
 |:-:|:-:|
 |second floor|third floor|
 |first floor|second floor|
 |ground floor|first floor|
-
+-->
 ### MY TASK
-~please visit: https://github.com/aizu-wakamatsu/tasmana ~
-
-We found we could finish all of my task in time to write down my task.
+please visit: https://github.com/aizu-wakamatsu/tasmana
 
 ### WHAT I WANT
 You know that there are persons like who can make zero to one(create new things), one to ten(expand the business), etc......
