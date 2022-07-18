@@ -36,7 +36,7 @@ Practical gadget using Arduino
 Main purpose of this research is to reduce the cost to buy useful device. Generally, useful device made by old technology is expensive. Then, we can replace them by the device using Arduino to reduce the cost. We know that the expensive device is suitable if we require higher precision, but when we use that in ordinary life, we don't need higher precision. we want to make the device with medium performance and lower cost.
 -->
 
-Engineers can use high-functional device like smartphones or smartwatches because they are familiar with new technology. I thought about for my mum or grandma, they are not familiar with that so it is diffifult to use high-functional device. I do something about hardware design for people not familiar with technology.
+Engineers can use high-functional device like smartphones or smartwatches because they are familiar with new technology. I thought about for my mum or grandma, they are not familiar with that so it is diffifult to use high-functional device. I do something about hardware design for people who is not familiar with technology.
 
 ### HOW TO REACH ME
 Visit Lab (121-E, Ground floor of Research Quadrangles)
