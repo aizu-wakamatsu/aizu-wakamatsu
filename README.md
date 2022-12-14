@@ -2,7 +2,16 @@
 Good day! This is my profile.
 
 ### ME
-I am University of Aizu student for more than five years. I enjoy the experience of my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here because it is unattractive and it doesn't have any values, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere.
+|Field|Value|
+|:-:|:-:|
+|Name|<hid​den>|
+|Birthday|<same as Gpioblink(mentioned later)>, 1999|
+|Live in|Aizu-wakamatsu, Fukushima JAPAN|
+|Research Topic|Biomedical gadgets|
+|Study in|University of Aizu|
+|Lab at University|RQ 325-E|
+
+I am University of Aizu student for more than five years. I enjoy the experience of my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here because it is unattractive and it doesn't have any values, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere, or please find me at Facebook.
 
 ### WHERE I LIVE
 Somewhere at Aizu-wakamatsu. You can see wonderful night view of downtown from the road near my house. There is also a hidden place to see fireworks festival.
@@ -23,6 +32,8 @@ I don't know this system of 26th student or lower. Recently many system has chan
 Biomedical Information Engineering Lab (August 2022-present), Research student (lab changed because my supervisor passed away)
 
 Data Networking Lab (November 2018-August 2022), Research student (at April 2022, lab name removed due to the discontinuation of lab system)
+  
+at, University of Aizu
 
 #### Groups
 
