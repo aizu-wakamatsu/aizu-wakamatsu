@@ -12,15 +12,15 @@ Same as [gpioblink](https://github.com/gpioblink). Hey you, celebrating his birt
 -->
 ### ACADEMIC RECORD
 
-Credits: 116/144 (Q2, 2022)
+Credits: 126(+1, requested)/142 (Q3, 2022)
 
-In University of Aizu, we have to get 128 credits(120 credits of lecture course and 8 credits of graduation thesis). However, Most of the students have to get more extra credits because of another requirement. We have to get 10 credits of general education courses(sociology, physical activities...), 15 credits of English language courses and 95 credits of specialized courses(mathematics, programming...). Furthermore, each category is subdivided and many of them have the requirements of credits. We have to satisfy all of the requirements. For these, I have to get 142 credits total to graduate(extra 14 credits).
+In University of Aizu, we have to get 128 credits(120 credits of lecture course and 8 credits of graduation thesis). However, Most of the students have to get more extra credits because of another requirement. We have to get 10 credits of general education courses(sociology, physical activities...), 15 credits of English language courses and 95 credits of specialized courses(mathematics, programming...). Furthermore, each category is subdivided and many of them have the requirements of credits. We have to satisfy all of the requirements. For these, I have to get 142 credits total to graduate(extra 14 credits). You can get ant credit for English language course when you get over 750 score for TOEIC exams.
 
 I don't know this system of 26th student or lower. Recently many system has changed every year so please ask student affairs division.
 
 ### AFFILIATION
 
-Biomedical information Engineering Lab (August 2022-present), Research student (lab changed because my supervisor passed away)
+Biomedical Information Engineering Lab (August 2022-present), Research student (lab changed because my supervisor passed away)
 
 Data Networking Lab (November 2018-August 2022), Research student (at April 2022, lab name removed due to the discontinuation of lab system)
 
@@ -56,7 +56,8 @@ Visit REMs workspace (K1, Second(3rd, in Japan) floor of Student Hall)
 -->
 ### MY TASK
 
-moved to Asana.
+I manage my tasks using Microsoft To Do.
+~moved to Asana.~
 ~please visit: https://github.com/aizu-wakamatsu/tasmana~
 
 ### WHAT I WANT
