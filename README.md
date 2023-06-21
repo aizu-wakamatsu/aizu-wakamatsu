@@ -21,7 +21,7 @@ Same as [gpioblink](https://github.com/gpioblink). Hey you, celebrating his birt
 -->
 ### ACADEMIC RECORD
 
-Credits: 133 of 143 (Q4, 2022)
+Credits: 133 of 143 (Q1, 2023)
 
 In University of Aizu, we have to get 128 credits(120 credits of lecture course and 8 credits of graduation thesis). However, Most of the students have to get more extra credits because of another requirement. We have to get 10 credits of general education courses(sociology, physical activities...), 15 credits of English language courses and 95 credits of specialized courses(mathematics, programming...). Furthermore, each category is subdivided and many of them have the requirements of credits. We have to satisfy all of the requirements. For these, I have to get 142 credits total to graduate(extra 14 credits). You can get ant credit for English language course when you get over 750 score for TOEIC exams.
 
@@ -39,7 +39,7 @@ at, University of Aizu
 
 SCCP Manabino Arduino (April 2017-present), Member
 
-Robot team REMs (November 2017-present), Accountant(AY2021-present) Leader(AY2019-AY2020) Support leader(AY2017-AY2018)
+Robot circle REMs (November 2017-present), Accountant(AY2021-present) Leader(AY2019-AY2020) Support leader(AY2017-AY2018)
 
 Circle (March 2019-present)
 
