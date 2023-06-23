@@ -1,6 +1,10 @@
 # aizu-wakamatsu
 Good day! This is my profile.
 
+##### important
+
+My website is currently unavailable because I lost my SSL credentials. I will restart web server asap, without HTTPS, after December HTTPS will be available.
+
 ### ME
 |Field|Value|
 |:-:|:-:|
