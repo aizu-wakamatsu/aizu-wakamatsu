@@ -3,13 +3,13 @@ Good day! This is my profile.
 
 ##### important
 
-My website is currently unavailable because I lost my SSL credentials. I will restart web server asap, without HTTPS, after December HTTPS will be available.
+My website is currently *unavailable* because I lost my SSL credentials. I will restart web server asap, without HTTPS, after December HTTPS will be available.
 
 ### ME
 |Field|Value|
 |:-:|:-:|
 |Name|<hid​den>|
-|Birthday|12 Jan, 1999|
+|Birthday|-|
 |Live in|Aizu-wakamatsu, Fukushima JAPAN|
 |Research Topic|Biomedical gadgets|
 |Study in|University of Aizu|
