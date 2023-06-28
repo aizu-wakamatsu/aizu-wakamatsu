@@ -8,21 +8,17 @@ My website is currently *unavailable* because I lost my SSL credentials. I will 
 ### ME
 |Field|Value|
 |:-:|:-:|
-|Name|<hid​den>|
-|Birthday|-|
 |Live in|Aizu-wakamatsu, Fukushima JAPAN|
 |Research Topic|Biomedical gadgets|
 |Study in|University of Aizu|
+|Class of|25th (Enter 2017 spring)|
 |Lab at University|RQ 325-E|
 
 I am University of Aizu student for more than five years. I enjoy the experience of my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here because it is unattractive and it doesn't have any values, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere, or please find me at Facebook.
 
 ### WHERE I LIVE
 Somewhere at Aizu-wakamatsu. You can see wonderful night view of downtown from the road near my house. There is also a hidden place to see fireworks festival.
-<!--
-### BIRTHDAY
-Same as [gpioblink](https://github.com/gpioblink). Hey you, celebrating his birthday, don't forget that that day is also my birthday! (It doesn't mean "Buy me some gifts", just keep me in mind.) ...Hmm, only Gb gets people's attention, it's unpleasant.
--->
+
 ### ACADEMIC RECORD
 
 Credits: 133 of 143 (Q1, 2023)
@@ -33,19 +29,25 @@ I don't know this system of 26th student or lower. Recently many system has chan
 
 ### AFFILIATION
 
-Biomedical Information Engineering Lab (August 2022-present), Research student (lab changed because my supervisor passed away)
+Laboratory's name is of before March 2022 because lab's name removed due to the discontinuation of lab system at the beginning of AY2022.
 
-Data Networking Lab (November 2018-August 2022), Research student (at April 2022, lab name removed due to the discontinuation of lab system)
-  
-at, University of Aizu
+Biomedical Information Engineering Lab (August 2022-present), Undergraduate research student (lab changed because my supervisor passed away)
+
+Data Networking Lab (November 2018-August 2022), Undergraduate research student
+
+, University of Aizu
 
 #### Groups
 
-SCCP Manabino Arduino (April 2017-present), Member
+SCCP Manabino Arduino (April 2017 - August 2022), Member
 
-Robot circle REMs (November 2017-present), Accountant(AY2021-present) Leader(AY2019-AY2020) Support leader(AY2017-AY2018)
+REMs (November 2017 - present), Accountant(AY2021-AY2022) Kai(AY2019-AY2020) Sub-Kai(AY2017-AY2018)
 
-Circle (March 2019-present)
+Zli (August 2020 - November 2021, January 2023 - present), Outside collaborator
+
+Circle (March 2019 - March 2023), Member
+
+Circle (April 2021 - present), Member
 
 ### RESEARCH TOPIC
 Practical gadget using Arduino
@@ -53,7 +55,7 @@ Practical gadget using Arduino
 Main purpose of this research is to reduce the cost to buy useful device. Generally, useful device made by old technology is expensive. Then, we can replace them by the device using Arduino to reduce the cost. We know that the expensive device is suitable if we require higher precision, but when we use that in ordinary life, we don't need higher precision. we want to make the device with medium performance and lower cost.
 -->
 
-Engineers can use high-functional device like smartphones or smartwatches because they are familiar with new technology. I thought about for my mum or grandma, they are not familiar with that so it is diffifult to use high-functional device. I do something about hardware design for people who is not familiar with technology.
+Engineers can use high-functional device like smartphones or smartwatches because they are familiar with new technology. We thought about for my mum or grandma, they are not familiar with that so it is diffifult to use high-functional device. I do something about hardware design for people who is not familiar with technology.
 
 ### HOW TO REACH ME
 
