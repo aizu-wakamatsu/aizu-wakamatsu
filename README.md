@@ -61,9 +61,9 @@ Engineers can use high-functional device like smartphones or smartwatches becaus
 
 I am at {UBIC, Lab, GeekDojo, etc..}
 
-~Visit Lab (121-E, Ground floor of Research Quadrangles)~
+Visit Lab (325-E, Second floor(三階) of Research Quadrangles)
 
-Visit REMs workspace (K1, Second(3rd, in Japan) floor of Student Hall)
+Visit REMs workspace (K1, Second floor(三階) of Student Hall)
 <!--
 |🇬🇧|🇯🇵|
 |:-:|:-:|
