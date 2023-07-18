@@ -1,5 +1,8 @@
 # aizu-wakamatsu
-Good day! This is my profile.
+
+**Hello, all shinchokuers!**
+
+This is my profile.
 
 ##### important
 
@@ -11,7 +14,7 @@ My website is currently *unavailable* because I lost my SSL credentials. I will 
 |Live in|Aizu-wakamatsu, Fukushima JAPAN|
 |Research Topic|Biomedical gadgets|
 |Study in|University of Aizu|
-|Class of|25th (Enter 2017 spring)|
+|Class of|25th (Entered 2017 spring)|
 |Lab at University|RQ 325-E|
 
 I am University of Aizu student for more than five years. I enjoy the experience of my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here because it is unattractive and it doesn't have any values, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere, or please find me at Facebook.
