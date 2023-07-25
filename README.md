@@ -5,13 +5,11 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aizu-wakamatsu)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 # Introduction
 
 ##### important
 
-My website is currently *unavailable* because I lost my SSL credentials. I will restart web server asap, without HTTPS, after December HTTPS will be available.
+- My website is currently *unavailable* because I lost my SSL credentials. I will restart web server asap, without HTTPS, after December HTTPS will be available.
 
 ### ME
 |Field|Value|
@@ -67,11 +65,13 @@ Engineers can use high-functional device like smartphones or smartwatches becaus
 
 ### HOW TO REACH ME
 
-I am at {UBIC, Lab, GeekDojo, etc..}
+I am suspended from U now, please contact me if you want to reach me.
 
-Visit Lab (325-E, Second floor(三階) of Research Quadrangles)
+~I am at {UBIC, Lab, GeekDojo, etc..}~
 
-Visit REMs workspace (K1, Second floor(三階) of Student Hall)
+~Visit Lab (325-E, Second floor(三階) of Research Quadrangles)~
+
+~Visit REMs workspace (K1, Second floor(三階) of Student Hall)~
 <!--
 |🇬🇧|🇯🇵|
 |:-:|:-:|
