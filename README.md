@@ -37,7 +37,7 @@ I don't know this system of 26th student or lower. Recently many system has chan
 
 Laboratory's name is of before March 2022 because lab's name removed due to the discontinuation of lab system at the beginning of AY2022.
 
-Biomedical Information Engineering Lab (August 2022-present), Undergraduate research student (lab changed because my supervisor passed away)
+(suspended) Biomedical Information Engineering Lab (August 2022-present), Undergraduate research student (lab changed because my supervisor passed away)
 
 Data Networking Lab (November 2018-August 2022), Undergraduate research student
 
