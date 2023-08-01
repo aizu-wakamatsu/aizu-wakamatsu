@@ -12,15 +12,19 @@
 - My website is currently *unavailable* because I lost my SSL credentials. I will restart web server asap, without HTTPS, after December HTTPS will be available.
 
 ### ME
-|Field|Value|
+|field...|value...|
 |:-:|:-:|
-|Live in|Aizu-wakamatsu, Fukushima JAPAN|
-|Research Topic|Biomedical gadgets|
-|Study in|University of Aizu|
-|Class of|25th (Entered 2017 spring)|
-|Lab at University|RQ 325-E|
+|Live in >|Aizu-wakamatsu, Fukushima JAPAN|
+|Research Topic >|Biomedical information eigineering|
+|Study in >|University of Aizu|
+|Class of >|25th (Entered 2017 spring)|
+|Lab location >|RQ 325-E|
 
-I am University of Aizu student for more than five years. I enjoy the experience of my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here because it is unattractive and it doesn't have any values, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere, or please find me at Facebook.
+I am University of Aizu student for more than five years. I enjoy the experience of my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here because it is unattractive in social nw service and it doesn't have any values, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere, or please find me at Facebook.
+
+##### why you don't put name?
+
+I think user's true name should not be public if user is not famous person.(For famous persons, there are other solution to handle this risk explained below.) This is risky action. For example, when they commit crime, their true name will be reported in Newspapers and this may be searchable by web search engine. Although their true name are not changable in general, they have to think about their criminal record that everyone can search in web. It may affect on some events which are not related to their crimes.
 
 ### WHERE I LIVE
 Somewhere at Aizu-wakamatsu. You can see wonderful night view of downtown from the road near my house. There is also a hidden place to see fireworks festival.
