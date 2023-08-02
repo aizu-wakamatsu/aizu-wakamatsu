@@ -6,7 +6,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aizu-wakamatsu)](https://github.com/anuraghazra/github-readme-stats)
 
 # Introduction
-
 ##### important
 
 - My website is currently *unavailable* because I lost my SSL credentials. I will restart web server asap, without HTTPS, after December HTTPS will be available.
