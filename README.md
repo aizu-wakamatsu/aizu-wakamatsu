@@ -15,15 +15,20 @@
 |:-:|:-:|
 |Live in >|Aizu-wakamatsu, Fukushima JAPAN|
 |Research Topic >|Biomedical information eigineering|
-|Study in >|University of Aizu|
+
+#### ME in univ
+|field...|value...|
+|:-:|:-:|
+|Study in >|University of Aizu (UoA)|
 |Class of >|25th (Entered 2017 spring)|
 |Lab location >|RQ 325-E|
 
-I am University of Aizu student for more than five years. I enjoy the experience of my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here because it is unattractive in social nw service and it doesn't have any values, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere, or please find me at Facebook.
+
+I am University of Aizu student for more than five years. I enjoy the experience of my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here for reasons below, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere, or please find me at Facebook.
 
 ##### why you don't put name?
 
-I think user's true name should not be public if user is not famous person.(For famous persons, there are other solution to handle this risk explained below.) This is risky action. For example, when they commit crime, their true name will be reported in Newspapers and this may be searchable by web search engine. Although their true name are not changable in general, they have to think about their criminal record that everyone can search in web. It may affect on some events which are not related to their crimes.
+We think user's true name should not be public if user is not famous person like Mayor or President. (For famous persons, there are other solution to handle this risk explained below.) We think putting our true name here is risky action for protecting our privacy. We know it is important and fundamental function of this page that putting our true name here and to gain your confidence. We can say that only if we are always doing good thing and all of you have good reputation of us. In real life, some of you have bad reputation and we sometimes do bad things, if we are always taking care of our behaviours. When we commit crime, their true name will be reported in Newspapers and the article may be searchable by web search engine like Bing. Although their true name are not changable in general, they have to think about their criminal record that everyone can search in web. It may affect on some events which are not related to their crimes.
 
 ### WHERE I LIVE
 Somewhere at Aizu-wakamatsu. You can see wonderful night view of downtown from the road near my house. There is also a hidden place to see fireworks festival.
@@ -38,7 +43,7 @@ I don't know this system of 26th student or lower. Recently many system has chan
 
 ### AFFILIATION
 
-Laboratory's name is of before March 2022 because lab's name removed due to the discontinuation of lab system at the beginning of AY2022.
+Laboratory's name is of before March 2022 because lab's name removed due to the discontinuation of lab system in UoA, at the beginning of AY2022.
 
 (suspended) Biomedical Information Engineering Lab (August 2022-present), Undergraduate research student (lab changed because my supervisor passed away)
 
@@ -46,7 +51,7 @@ Data Networking Lab (November 2018-August 2022), Undergraduate research student
 
 , University of Aizu
 
-#### Groups
+#### Groups in UoA
 
 SCCP Manabino Arduino (April 2017 - August 2022), Member
 
@@ -68,7 +73,7 @@ Engineers can use high-functional device like smartphones or smartwatches becaus
 
 ### HOW TO REACH ME
 
-I am suspended from U now, please contact me if you want to reach me.
+I am suspended from UoA now, please contact me if you want to reach me.
 
 ~I am at {UBIC, Lab, GeekDojo, etc..}~
 
