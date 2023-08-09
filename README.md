@@ -14,7 +14,7 @@
 |field...|value...|
 |:-:|:-:|
 |Live in >|Aizu-wakamatsu, Fukushima JAPAN|
-|Research Topic >|Biomedical information eigineering|
+|Research Topic >|Biomedical information engineering|
 
 #### ME in univ
 |field...|value...|
