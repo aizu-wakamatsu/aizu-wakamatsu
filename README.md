@@ -2,14 +2,11 @@
 
 THIS IS OUR PROFILE
 
-
 ---
 
-**Hello, all shinchokuers!**
+**Hello, all shinchokuers!!**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aizu-wakamatsu)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 ##### note
 
