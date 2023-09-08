@@ -116,7 +116,7 @@ If you are enroled in ICTG course from your upper-class, it will be difficult to
 
 Don't worry, there are another merits to enrol in ICTG course.
 
-- Some courses are held in different quarter from Japanese class so you can make study plan flexibly. 
+- Some courses are held in different quarter from Japanese class so you can make course taking plan flexibly.
 
 - Some classes are held with small number of students so some of you feel more confortable than Japanese classes.
 
