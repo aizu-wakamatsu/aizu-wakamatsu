@@ -127,3 +127,7 @@ You also can take Japanese class if you want. ICTG course doesn't prohibit you t
 If you want to change your environment to take lecture, I recommend you to enrol in ICTG course. I don't guarantee the correctness of these information, please ask university staff for details.
 
 ***DUE TO CORONAVIRUS-DISASTER, IT IS DIFFICULT TO TAKE THE COURSE IN ICTG COURSE. CAPACITY OF LECTURE ROOM IS REDUCED AND THEY GIVE PRIORITY TO STUDENTS TAKING THEIR OWN CLASS, REGISTRATION WILL CHANGE TO JAPANESE CLASS OR CANCELLED!***
+
+---
+
+we will add materials about repeating academic years(留年) later.
