@@ -11,9 +11,11 @@ THIS IS OUR PROFILE
 
 ##### note
 
-- My website is currently *unavailable* because I lost my SSL credentials. I will restart web server asap, without HTTPS, after December HTTPS will be available.
+~~- My website is currently *unavailable* because I lost my SSL credentials. I will restart web server asap, without HTTPS, after December HTTPS will be available.~~
 
-- SSL will be available from XX Dec 2023. (re-taking SSL credentials)
+~~- SSL will be available from XX Dec 2023. (re-taking SSL credentials)~~
+
+We will obtain new domain soon.
 
 # Introduction
 
