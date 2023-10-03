@@ -4,6 +4,8 @@ THIS IS OUR PROFILE
 
 ---
 
+そのうち日本語版もつくります。
+
 **Hello, all shinchokuers!!**
 
 ##### stats
@@ -40,11 +42,11 @@ I am University of Aizu student for more than five years. I enjoy the experience
 We think user's true name should not be public if user is not famous person like Mayor or President. (For famous persons, there are other solution to handle this risk explained below.) We think putting our true name here is risky action for protecting our privacy. We know it is important and fundamental function of this page that putting our true name here and to gain your confidence. We can say that only if we are always doing good thing and all of you have good reputation of us. In real life, some of you have bad reputation of us and we sometimes do bad things, even if we are always taking care of our behaviours(actually, it is not and we cannot). For example, this is just an example case, in Japan(and most countries), when we arrested as suspect, the case will be reported in Newspapers and the article with our name. That may be searchable by web search engine like Bing and some of you read the article. This means we have risk of getting bad reputation of our name. Although our true name are not changable in general(in Japan), it may affect on some life events which are and are "not related" to our crime(or some bad thing)s. We cannot say that we don't have that risk. Thus, we don't put our true name here(and any of our self-intros) to avoid that risk.
 
 ### WHERE I LIVE
-Somewhere at Aizu-wakamatsu. You can see wonderful night view of downtown from the road near my house. There is also a hidden place to see fireworks festival.
+Somewhere at Aizu-wakamatsu.<!-- You can see wonderful night view of downtown from the road near my house. There is also a hidden place to see fireworks festival.-->
 
 ### ACADEMIC RECORD
 
-Credits: 133(+2, estimated in Q2) of 143 (Q1, 2023)
+Credits: 135 of 143 (End of Q2, 2023)
 
 In University of Aizu, we have to get 128 credits(120 credits of lecture course and 8 credits of graduation thesis). However, Most of the students have to get more extra credits because of another requirement. We have to get 10 credits of general education courses(sociology, physical activities...), 15 credits of English language courses and 95 credits of specialized courses(mathematics, programming...). Furthermore, each category is subdivided and many of them have the requirements of credits. We have to satisfy all of the requirements. For these, I have to get 143 credits total to graduate(extra 15 credits). You can get ant credit for English language course when you get over 750 score for TOEIC exams.
 
