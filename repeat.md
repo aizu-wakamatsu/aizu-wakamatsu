@@ -2,3 +2,5 @@
 ARTICLE ABOUT REPEATING ACADEMIC YEARS
 
 ---
+
+メモ: 後々サイトに移す
