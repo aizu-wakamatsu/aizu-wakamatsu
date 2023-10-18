@@ -1,5 +1,6 @@
 # repeat
 ARTICLE ABOUT REPEATING ACADEMIC YEARS
+
 弊学の留年に関する情報が見当たらなかったのでメモ
 ---
 
