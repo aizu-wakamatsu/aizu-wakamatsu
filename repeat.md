@@ -1,11 +1,10 @@
 # repeat
+
 ARTICLE ABOUT REPEATING ACADEMIC YEARS
 
 弊学の留年に関する情報が見当たらなかったのでメモ
----
 
-メモ: 後々サイトに移す
-
+## 留年とは
 >留年
 >
 >りゅうねん
@@ -15,4 +14,10 @@ ARTICLE ABOUT REPEATING ACADEMIC YEARS
 
 出典: ブリタニカ国際大百科事典 小項目事典
 
+## 留年した場合の疑問をメモ
+
 - 留年した場合の卒論について
+
+
+
+メモ: 後々サイトに移す
