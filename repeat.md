@@ -1,4 +1,4 @@
-![image](https://github.com/aizu-wakamatsu/aizu-wakamatsu/assets/38212728/6d1a77d8-4b84-450d-b1af-1a69b39da2ad)# repeat
+# repeat
 
 ARTICLE ABOUT REPEATING ACADEMIC YEARS
 
