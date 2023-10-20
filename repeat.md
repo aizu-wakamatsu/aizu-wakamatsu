@@ -2,7 +2,7 @@
 
 ARTICLE ABOUT REPEATING ACADEMIC YEARS
 
-弊学の留年に関する情報が見当たらなかったのでメモ
+弊学の留年に関する情報が界隈で見当たらなかったのでメモ
 
 ## 留年とは
 >**留年**
