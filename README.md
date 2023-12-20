@@ -17,7 +17,6 @@ THIS IS OUR PROFILE
 
 ~~- SSL will be available from XX Dec 2023. (re-taking SSL credentials)~~
 
-We will obtain new domain soon.
 
 # Introduction
 
