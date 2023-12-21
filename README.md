@@ -45,7 +45,7 @@ Somewhere at Aizu-wakamatsu.<!-- You can see wonderful night view of downtown fr
 
 ### ACADEMIC RECORD
 
-Credits: 135 of 143 (End of Q2, 2023 and I will not obtain any extra credits in Q3 and Q4)
+Credits: 135 of 143 (End of Q3, 2023 and I will not obtain any extra credits in Q4)
 
 In University of Aizu, we have to get 128 credits(120 credits of lecture course and 8 credits of graduation thesis). However, Most of the students have to get more extra credits because of another requirement. We have to get 10 credits of general education courses(sociology, physical activities...), 15 credits of English language courses and 95 credits of specialized courses(mathematics, programming...). Furthermore, each category is subdivided and many of them have the requirements of credits. We have to satisfy all of the requirements. For these, I have to get 143 credits total to graduate(extra 15 credits). You can get ant credit for English language course when you get over 750 score for TOEIC exams.
 
