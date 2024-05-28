@@ -95,11 +95,6 @@ I am suspended from UoA now, please contact me if you want to reach me.
 |first floor|second floor|
 |ground floor|first floor|
 -->
-### MY TASK
-
-I manage my tasks using Microsoft To Do.
-~moved to Asana.~
-~please visit: https://github.com/aizu-wakamatsu/tasmana~
 
 ### WHAT I WANT
 You know that there are persons like who can make zero to one(create new things), one to ten(expand the business), etc......
