@@ -125,9 +125,9 @@ Don't worry, there are another merits to enrol in ICTG course.
 You also can take Japanese class if you want. ICTG course doesn't prohibit you to take lectures in Japanese. Some course need special registration method. You can't register these course using course planning system(not displaying to that system). You have to go to SAD to register these course in course changing period. You also can change registration to English class from Japanese class. In this situation, you have priority to change registration because changing period for ICTG students is earlier than that of normal students. Please remember that it will not be regarded as ICTG credit if you take lecture in Japanese class for some reasons. Unfortunately, even if you take Japanese class due to over capacity of English class, it will not be regarded as ICTG credits.
 
 If you want to change your environment to take lecture, I recommend you to enrol in ICTG course. I don't guarantee the correctness of these information, please ask university staff for details.
-
+<!--
 ***DUE TO CORONAVIRUS-DISASTER, IT IS DIFFICULT TO TAKE THE COURSE IN ICTG COURSE. CAPACITY OF LECTURE ROOM IS REDUCED AND THEY GIVE PRIORITY TO STUDENTS TAKING THEIR OWN CLASS, REGISTRATION WILL CHANGE TO JAPANESE CLASS OR CANCELLED!***
-
+-->
 ---
 
 we will add materials about repeating academic years(留年) later.
