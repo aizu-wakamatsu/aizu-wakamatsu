@@ -4,8 +4,6 @@ THIS IS OUR PROFILE
 
 ---
 
-そのうち日本語版もつくります。
-
 **Hello, all shinchokuers!!**
 
 ##### stats
