@@ -1,7 +1,5 @@
 # aizu-wakamatsu
 
-THIS IS OUR PROFILE
-
 ---
 
 **Hello, all shinchokuers!!**
