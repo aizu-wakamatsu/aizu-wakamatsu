@@ -35,7 +35,7 @@ I am University of Aizu student for more than five years. I enjoy the experience
 We think user's true name should not be public if user is not famous person like Mayor or President. (For famous persons, there are other solution to handle this risk explained below.) We think putting our true name here is risky action for protecting our privacy. We know it is important and fundamental function of this page that putting our true name here and to gain your confidence. We can say that only if we are always doing good thing and all of you have good reputation of us. In real life, some of you have bad reputation of us and we sometimes do bad things, even if we are always taking care of our behaviours(actually, it is not and we cannot). For example, this is just an example case, in Japan(and most countries), when we arrested as suspect, the case will be reported in Newspapers and the article with our name. That may be searchable by web search engine like Bing and some of you read the article. This means we have risk of getting bad reputation of our name. Although our true name are not changable in general(in Japan), it may affect on some life events which are and are "not related" to our crime(or some bad thing)s. We cannot say that we don't have that risk. Thus, we don't put our true name here(and any of our self-intros) to avoid that risk.
 
 ### WHERE I LIVE
-Somewhere at Aizu-wakamatsu.<!-- You can see wonderful night view of downtown from the road near my house. There is also a hidden place to see fireworks festival.-->
+Somewhere at Aizu-wakamatsu.
 
 ### ACADEMIC RECORD
 
