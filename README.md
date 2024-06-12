@@ -9,7 +9,6 @@
 
 ##### note
 
-~~- My website is currently *unavailable* because I lost my SSL credentials. I will restart web server asap, without HTTPS, after December HTTPS will be available.~~
 
 
 # Introduction
