@@ -26,8 +26,20 @@
 |Class of >|25th (Entered 2017 spring)|
 |Lab location >|RQ 325-E|
 
+#### TIMELINE
 
-I am University of Aizu student for more than five years.(more than six or seven years, as of 2024) I enjoy the experience of my third time at "6th-year student" in my life(primary school, unified secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here for reasons below, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere, or please find me at Facebook.
+|field...|value...||
+|:-:|:-:|:-:|
+|12 Jan 1999|Born in Sapporo city, Hokkaido|live out of Sapporo|
+|Apr 2005|Entered [primary school](https://www16.sapporo-c.ed.jp/soen-e/)||
+|Mar 2011|Graduated primary school||
+|Apr 2011|Entered [secondary education](https://sapporokosei.ac.jp/)|integrated, junior and senior high school. (中高一貫校)|
+|Apr 2014|(graduated junior high school)||
+|Apr 2014|(Entered senior high school)||
+|Mar 2017|Finished secondary education|Graduation of high school|
+|Apr 2017|Entered [University of Aizu](https://u-aizu.ac.jp/)|Now|
+
+I am University of Aizu student for more than five years.(more than six or seven years, as of 2024) I enjoy the experience of my third time at "6th-year student" in my life(primary school, Integrated secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here for reasons below, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere, or please find me at Facebook.
 
 ##### why you don't put name?
 
