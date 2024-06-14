@@ -34,7 +34,7 @@
 |Apr 2005|Entered [primary school](https://www16.sapporo-c.ed.jp/soen-e/)||
 |Mar 2011|Graduated primary school||
 |Apr 2011|Entered [secondary education](https://sapporokosei.ac.jp/)|integrated, junior and senior high school. (中高一貫校)|
-|Apr 2014|(graduated junior high school)||
+|Apr 2014|(Graduated junior high school)||
 |Apr 2014|(Entered senior high school)||
 |Mar 2017|Finished secondary education|Graduation of high school|
 |Apr 2017|Entered [University of Aizu](https://u-aizu.ac.jp/)|Now|
