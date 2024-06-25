@@ -33,9 +33,9 @@
 |12 Jan 1999|Born in Sapporo city, Hokkaido|live out of Sapporo|
 |Apr 2005|Entered [primary school](https://www16.sapporo-c.ed.jp/soen-e/)||
 |Mar 2011|Graduated primary school||
-|Apr 2011|Entered [secondary education](https://sapporokosei.ac.jp/)|integrated, junior and senior high school. (中高一貫校)|
+|Apr 2011|Entered [junior High school](https://sapporokosei.ac.jp/)|integrated, junior and senior high school|
 |Apr 2014|(Graduated junior high school)||
-|Apr 2014|(Entered senior high school)||
+|Apr 2014|(Entered senior High school)||
 |Mar 2017|Finished secondary education|Graduation of high school|
 |Apr 2017|Entered [University of Aizu](https://u-aizu.ac.jp/)||
 |Jun 2024|--NOW--|
@@ -51,11 +51,13 @@ Somewhere at Aizu-wakamatsu.
 
 ### ACADEMIC RECORD
 
-Credits: 135 of 143 (End of Q4, 2023)
+Credits: 135 of 143 (End of Q1, 2024)
 
 In University of Aizu, we have to get 128 credits(120 credits of lecture course and 8 credits of graduation thesis). However, Most of the students have to get more extra credits because of another requirement. We have to get 10 credits of general education courses(sociology, physical activities...), 15 credits of English language courses and 95 credits of specialized courses(mathematics, programming...). Furthermore, each category is subdivided and many of them have the requirements of credits. We have to satisfy all of the requirements. For these, I have to get 143 credits total to graduate(extra 15 credits). You can get ant credit for English language course when you get over 750 score for TOEIC exams.
 
 I don't know this system of 26th student or later. Recently many system has changed every year so please ask student affairs division.
+
+In university of Aizu, we can take Graduated school classes while in undergraduate course. We can use these credits after entered Graduate school.
 
 ### AFFILIATION
 
