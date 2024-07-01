@@ -4,7 +4,7 @@
 
 **Hello, Shinchokuers!!**
 
-##### stats
+# stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aizu-wakamatsu)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--##### note-->
