@@ -64,7 +64,7 @@ In university of Aizu, we can take Graduated school classes while in undergradua
 
 Laboratory's name is of before March 2022 because lab's name removed due to the discontinuation of lab system in UoA, at the beginning of AY2022.
 
-(suspended) Biomedical Information Engineering Lab (August 2022-present), Undergraduate research student (lab changed because my supervisor passed away)
+Biomedical Information Engineering Lab (August 2022-present), Undergraduate research student (lab changed because my supervisor passed away)
 
 Data Networking Lab (November 2018-August 2022), Undergraduate research student
 
