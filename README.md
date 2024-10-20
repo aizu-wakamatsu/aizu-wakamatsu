@@ -29,7 +29,7 @@
 |Mar 2011|Graduated primary school||
 |Apr 2011|Entered [junior High school](https://sapporokosei.ac.jp/)|integrated, junior and senior high school|
 |Apr 2014|(Graduated junior high school)||
-|Apr 2014|(Entered senior gigh school)||
+|Apr 2014|(Entered senior high school)||
 |Mar 2017|Finished secondary education|Graduation of high school|
 |Apr 2017|Entered [University of Aizu](https://u-aizu.ac.jp/)||
 |Sep 2024|Graduated University of Aizu||
