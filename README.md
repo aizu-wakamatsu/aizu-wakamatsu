@@ -16,7 +16,7 @@
 ### ME
 |field...|value...|
 |:-:|:-:|
-|Live in >|Aizu-wakamatsu, Fukushima JAPAN|
+|Live in >||
 |Research Topic >|Biomedical information engineering|
 
 
@@ -33,21 +33,20 @@
 |Mar 2017|Finished secondary education|Graduation of high school|
 |Apr 2017|Entered [University of Aizu](https://u-aizu.ac.jp/)||
 |Sep 2024|Graduated University of Aizu||
-|Oct 2024|--NOW--|
-|Apr 2025|Enter graduate school, sched|
+|Apr 2025|Entered graduate school|
 
-I am University of Aizu student for more than five years.(more than six or seven years, as of 2024) I enjoy the experience of my third time at "6th-year student" in my life(primary school, Integrated secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here for reasons below, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere, or please find me at Facebook.
+I was the University of Aizu student for more than five years.(more than six or seven years, as of 2024) I enjoy the experience of my third time at "6th-year student" in my life(primary school, Integrated secondary school and three times of fourth-year student at university undergraduate). I don't put my true name here for reasons below, but you can find me on Facebook if you want to know that......It's impossible to hide my true name. Someone write that in somewhere, or please find me at Facebook.
 
 ##### why you don't put name?
 
 We think user's true name should not be public if user is not famous person like Mayor or President. (For famous persons, there are other solution to handle this risk explained below.) We think putting our true name here is risky action for protecting our privacy. We know it is important and fundamental function of this page that putting our true name here and to gain your confidence. We can say that only if we are always doing good thing and all of you have good reputation of us. In real life, some of you have bad reputation of us and we sometimes do bad things, even if we are always taking care of our behaviours(actually, it is not and we cannot). For example, this is just an example case, in Japan(and most countries), when we arrested as suspect, the case will be reported in Newspapers and the article with our name. That may be searchable by web search engine like Bing and some of you read the article. This means we have risk of getting bad reputation of our name. Although our true name are not changable in general(in Japan), it may affect on some life events which are and are "not related" to our crime(or some bad thing)s. We cannot say that we don't have that risk. Thus, we don't put our true name here(and any of our self-intros) to avoid that risk.
 
 ### WHERE I LIVE
-Somewhere at Aizu-wakamatsu.
+
 
 ### ACADEMIC RECORD
 
-Credits: 135 of 143 (End of Q1, 2024)
+Credits: 143 (End of Q2, 2024)
 (+4, Graduate school course credits)
 
 In University of Aizu, we have to get 128 credits(120 credits of lecture course and 8 credits of graduation thesis). However, Most of the students have to get more extra credits because of another requirement. We have to get 10 credits of general education courses(sociology, physical activities...), 15 credits of English language courses and 95 credits of specialized courses(mathematics, programming...). Furthermore, each category is subdivided and many of them have the requirements of credits. We have to satisfy all of the requirements. For these, I have to get 143 credits total to graduate(extra 15 credits). You can get ant credit for English language course when you get over 750 score for TOEIC exams.
@@ -70,13 +69,13 @@ Data Networking Lab (November 2018-August 2022), Undergraduate research student
 
 SCCP Manabino Arduino (April 2017 - August 2022), Member
 
-REMs (November 2017 - present), Accountant(AY2021-AY2022) Kai(AY2019-AY2020) Sub-Kai(AY2017-AY2018)
+REMs (November 2017 - present), Accountant(AY2021-AY2022) (AY2019-AY2020) (AY2017-AY2018)
 
-Zli (August 2020 - November 2021, January 2023 - present), Outside collaborator
+Zli (August 2020 - November 2021, January 2023 - September 2024), Outside collaborator
 
 Circle (March 2019 - March 2023), Member
 
-Circle (April 2021 - present), Member
+Circle (April 2021 - September 2024), Member
 
 ### RESEARCH TOPIC
 Practical gadget using Arduino
@@ -88,9 +87,6 @@ Engineers can use high-functional device like smartphones or smartwatches becaus
 
 ### HOW TO REACH ME
 
-I am suspended from UoA now, please contact me if you want to reach me.
-
-~I am at {UBIC, Lab, GeekDojo, etc..}~
 
 ~Visit Lab (325-E, Second floor(三階) of Research Quadrangles)~
 
